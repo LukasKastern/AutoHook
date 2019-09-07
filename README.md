@@ -1,4 +1,4 @@
-# AutoHooker
+# AutoHook
 
 AutoHooker is an Unity Editor extension for automatically resolving object references on MonoBehaviour scripts.  
 
